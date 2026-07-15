@@ -4,6 +4,6 @@ title = 'My New Hugo Project'
 theme = 'PaperMod'
 [menu]
 [[menu.main]]
-name = '我的笔记
+name = '我的笔记'
 url = '/notes/'
 weight = 1
